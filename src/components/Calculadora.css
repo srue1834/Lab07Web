@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+.pantalla {
+    vertical-align: middle;
+    background-color:white;
+    opacity: .5;
+    height: 200px;
+    width: 430px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.fondo {
+    height: 700px;
+    width: 430px;
+    margin: 80 0 0 600;
+    align-content:center;
+    display: flex;
+    border-radius: 25px;
+    background-image: url("fondo2.jpeg");
+}
+.boton {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-style: none;
+    font-size: 18px;
+    color: white;
+    background-color: #6661E8;
+    outline: none;
+}

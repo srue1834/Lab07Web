@@ -2,11 +2,11 @@
 /* eslint-disable react/jsx-filename-extension */
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Calculadora from './components/Calculadora'
 
 const App = () => (
   <div>
-    <h1>Hola</h1>
-
+    <Calculadora />
   </div>
 )
 
