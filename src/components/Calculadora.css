@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 
 .pantalla {
@@ -49,5 +49,5 @@ body {
 }
 
 .boton:hover {
-    background-color: #ffafc0;
+    background-color: #fcbecb;
 }
